@@ -24,7 +24,7 @@ A full-stack e-commerce platform for buying and selling mobile phones, built wit
 
 ### 💳 Payment Integration
 - **Demo Payment System** - Simulated payment processing
-- **Multiple Payment Methods** - Card, UPI, Net Banking, COD (Demo)
+- **Multiple Payment Methods** - Card, UPI, Net Banking, COD only (Demo)
 - **Payment Simulation** - Mock payment confirmation for testing
 
 ## 🛠 Tech Stack
