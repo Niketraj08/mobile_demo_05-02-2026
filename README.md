@@ -2,8 +2,10 @@
 
 A full-stack e-commerce platform for buying and selling mobile phones, built with React, Node.js, Express, and MongoDB.
 ## 🚀 Features
+
+
 ### 👤 User Features
-- **User Registration & Authentication** - Secure JWT-based login system
+- **User Registration & Authentication** - Secure JWT-based login systems
 - **Browse Products** - Advanced search, filtering, and sorting capabilities
 - **Product Details** - Comprehensive product information with specifications
 - **Shopping Cart** - Add, remove, and manage cart items
