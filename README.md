@@ -274,7 +274,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [Tailwind CSS](https://tailwindcss.com/) - A utility-first CSS framework
 - [Express.js](https://expressjs.com/) - Fast, unopinionated, minimalist web framework
 - [MongoDB](https://www.mongodb.com/) - A document database
-- [Razorpay](https://razorpay.com/) - Payment gateway for India
+
 
 ## 📞 Support
 
