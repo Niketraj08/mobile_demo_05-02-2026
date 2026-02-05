@@ -278,8 +278,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Support
 
-For support, email support@mobilehub.com or join our Discord community.
+For support, email niketrajkvs@gmail.com or join our comapny main info@astracognixsolutions.in .
 
 ---
 
-**Made with ❤️ for mobile enthusiasts**
+**Made with ❤️ for Niketraj08 **
