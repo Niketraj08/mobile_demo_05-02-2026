@@ -278,7 +278,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Support
 
-For support, email niketrajkvs@gmail.com or join our comapny main info@astracognixsolutions.in .
+For support, email niketrajkvs@gmail.com or join our comapny  info@astracognixsolutions.in .
 
 ---
 
